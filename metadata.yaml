@@ -1,0 +1,27 @@
+_repo: The-Minute-Boys-of-the-Mohawk-Valley_10086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: Teenager Noel Campbell joins up with the local patriots to form the "Minute
+  Men of the Mohawk Valley" in 1777 to help fight against the Tories during the American
+  revolution.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Minute Boys of the Mohawk Valley
+url: http://www.gutenberg.org/ebooks/10086
