@@ -1,5 +1,8 @@
 _repo: The-Minute-Boys-of-the-Mohawk-Valley_10086
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Otis, James
@@ -11,6 +14,8 @@ creator:
 description: Teenager Noel Campbell joins up with the local patriots to form the "Minute
   Men of the Mohawk Valley" in 1777 to help fight against the Tories during the American
   revolution.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10086#The-Minute-Boys-of-the-Mohawk-Valley
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
